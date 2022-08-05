@@ -1,0 +1,1 @@
+Hypothesis: 1 X (|x|^1) X sin(4x + 0)
